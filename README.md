@@ -38,12 +38,12 @@ Fullstack Next.js E-commerce
 
 ## Code Example/Issues 🔍
 
-If you have any issues, please let me know in the issues section or directly to olafsulich@gmail.com
+If you have any issues, please let me know in the issues section or directly to https://join.skype.com/uyeVSWXyjeVB
 
 ## Installation 💾
 
 ```bash
-git clone https://github.com/olafsulich/fullstack-nextjs-ecommerce.git
+git clone https://github.com/cryptotopstar/fullstack-nextjs-ecommerce.git
 ```
 
 Fill your `.env` variables:
@@ -90,4 +90,4 @@ npm run dev
 
 ## Contributing
 
-This is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed on the [issues](https://github.com/olafsulich/fullstack-nextjs-ecommerce/issues) tab and labeled accordingly. Feel free to open bug tickets and make feature requests.
+This is an open source project, and contributions of any kind are welcome and appreciated. Feel free to open bug tickets and make feature requests.
